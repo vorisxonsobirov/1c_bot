@@ -103,3 +103,5 @@ bot.on('polling_error', (error) => {
     console.error('Ошибка polling:', error.code);  // Выводит код ошибки
     console.error('Сообщение об ошибке:', error.message);  // Сообщение об ошибке
 });
+
+
